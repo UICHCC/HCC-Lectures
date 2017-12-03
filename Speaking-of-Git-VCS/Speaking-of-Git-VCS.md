@@ -35,6 +35,6 @@
     * Using GitHub
     * Forks, issues, pull requests
     * Handling conflicts
-  * More than main steps
-    * Tracking status `git status`
-    * Find out what's new `git pull`
+* More than main steps
+  * Tracking status `git status`
+  * Find out what's new `git pull`
