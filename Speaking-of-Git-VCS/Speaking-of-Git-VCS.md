@@ -38,3 +38,5 @@
 * More than main steps
   * Tracking status `git status`
   * Find out what's new `git pull`
+  * Roll-back changes
+  * Make your repository clear `git rebase`
