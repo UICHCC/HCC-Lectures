@@ -22,6 +22,50 @@ If you are in Windows, please refer to the following steps.
 
 ## macOS
 
+There are several ways to install Git on your Mac. If you have installed the Xcode or its "Command Line Tools", your Mac had already installed the Git; 
+
+- Use Xcode to install Git.
+
+  *Xcode is anintergrated development environment (IDE) for macOS containing a suite of software development tools developed by Apple*
+
+  1. Open a terminal and enter `xcode-select --install`
+
+  ![xcode-select](xcode-select.png)
+
+  1. click the install button and it starts to install Xcode command line tools 
+
+     ![install](install.png)
+
+  2. After the installation you can find the git by enter `git` in a terminal
+
+     ![success](success.png)
+
+  ​
+
+- Use Homebrew to install git
+
+  <font size=1>*Homebrew is a very powerful package manager for macOS; Homebrew […] simplifies the installation of software on the Mac OS X operating system.*</font>
+
+  1. Install **Hombrew**
+
+     - **Copy & paste the following** into the terminal window and **hit Return**
+
+       `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+       ![homebrew](homebrew.png)
+
+       You will be offtered to install the Command Line Developer Tools from Apple. ***Confirm by clicking Install***. After the installation finished.continue the installation of Homebrew by **hitting Return** again.
+
+  2. Install **Git**
+
+     - **Copy & paster the following** into the terminal and **hit Return**
+
+       ` brew install git`
+
+       Now, You get Git and can use it !
+
+       ![git](git.png)
+
 ## Linux
 
 If you are in Linux, you can directly install Git by package management software.
