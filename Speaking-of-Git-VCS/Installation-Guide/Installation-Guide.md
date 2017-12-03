@@ -1,5 +1,9 @@
 # Installation Guide
 
+**BEFORE YOU CAN GO ON**
+
+Check your computer whether your computer has already installed Git or not by typing `git --version`  in Windows Command Prompt, Windows Powershell, or Terminal.
+
 ## Windows
 
 If you are in Windows, please refer to the following steps.
