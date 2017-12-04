@@ -1,8 +1,20 @@
 # Installation Guide
 
+## Check your installation
+
 **BEFORE YOU CAN GO ON**
 
 Check your computer whether your computer has already installed Git or not by typing `git --version`  in Windows Command Prompt, Windows Powershell, or Terminal.
+
+* If you have installed Git, you will received something like:
+
+  ```shell
+  $ git version 2.15.1.windows.2
+  ```
+
+  Then, you can ignore this installation guide.
+
+* If you did not receive this information, please continue.
 
 ## Windows
 
@@ -78,3 +90,16 @@ sudo apt install git
 sudo yum makecache
 sudo yum install git
 ```
+## Check your installation
+
+After finished above steps, check your installation success or not by typing `git --version` in Windows Command Prompt, Windows Powershell or Terminal.
+
+* If you receive something like:
+
+  ```shell
+  $ git version 2.15.1.windows.2
+  ```
+
+  That means you have successfully installed Git.
+
+* If you didn't receive that, please check your installation or contact the author for help.
