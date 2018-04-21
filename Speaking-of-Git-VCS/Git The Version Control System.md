@@ -10,7 +10,7 @@ Title: Git: The Version Control System
 
 Speaker: Junru Zhong, Year 4 CST Student
 
-Time: 12:00-13:00, April 27 (Friday)
+Time: 19:00-20:00, April 24 (Tuesday)
 
 Venue: TBD
 
