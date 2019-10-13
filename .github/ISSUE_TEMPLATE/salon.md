@@ -5,8 +5,7 @@ about: Use this template to track process of an HCC Tech Salon.
 
 # This Salon
 
-- **Name:** <!-- Fill name of the salon here -->
-- **Speaker:** <!-- Fill name of the speaker here -->
+- Speaker: **_unknown_**
 
 # Checklist
 
@@ -14,10 +13,12 @@ about: Use this template to track process of an HCC Tech Salon.
 
 ## Before Salon Day
 
-- [ ] Book a room: <!-- Fill room number -->
+- [ ] Send Goliath an email for record
+- [ ] Book a room: **_unknown_**
 - [ ] Prepare a flyer
-- [ ] Prepare a live streaming platform: <!-- Fill platform name here -->
-  - [ ] Streaming address: <!-- Fill address here -->
+- [ ] Prepare live streaming on: **_unknown_**
+  - **_link 1_**
+  - **_link 2_**
 - [ ] Publicity of salon information
 
 ## On Salon Day
@@ -27,9 +28,11 @@ about: Use this template to track process of an HCC Tech Salon.
 - [ ] Setup computer for streaming
 - [ ] Setup camera
 - [ ] Setup OBS Studio (recording, scene, etc)
-- [ ] Setup live streaming (Bilibili)
+- [ ] Setup live streaming
 
 ## After Salon
 
 - [ ] Upload materials to this repository
-- [ ] Upload recording to somewhere: <!-- Fill the link here after upload -->
+- [ ] Upload recording to somewhere
+  - **_link 1_**
+  - **_link 2_**
