@@ -13,13 +13,15 @@ about: Use this template to track process of an HCC Tech Salon.
 
 ## Before Salon Day
 
-- [ ] Send Goliath an email for record
+- [ ] Send mentor teacher an email for a record
 - [ ] Book a room: **_unknown_**
 - [ ] Prepare a flyer
 - [ ] Prepare live streaming on: **_unknown_**
   - **_link 1_**
   - **_link 2_**
-- [ ] Publicity of salon information
+- [ ] Post information of salon
+  - [ ] WeChat: **_unknown link_**
+  - [ ] Website: **_unknown link_**
 
 ## On Salon Day
 
@@ -36,3 +38,4 @@ about: Use this template to track process of an HCC Tech Salon.
 - [ ] Upload recording to somewhere
   - **_link 1_**
   - **_link 2_**
+- [ ] Update the website post (if applicable)
