@@ -4,4 +4,4 @@ The materials are in Simplified Chinese (cmn-Hans).
 
 - [The ODP file](tcpltydk.odp) is the source file for the slides.
 - [The PDF file](tcpltydk.pdf) is compressed and for easy reference.
-- [The Git Repository](tcpltydn) contains the code snippets used in the slides.
+- [The Git Repository](tcpltydk) contains the code snippets used in the slides.
